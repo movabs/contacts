@@ -1,0 +1,8 @@
+# A simple contact phone program written in Perl
+
+run:
+```perl
+perl contacts.txt
+```
+
+
